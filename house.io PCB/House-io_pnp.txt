@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=House-io
+*Date=15:29:49
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;to-92;27.427;-9.18609;0;Bottom;Q1
+2;56;THT;30.221;-28.198;90;Bottom;R2
+3;;lte-302;28.443;-15.371;180;Bottom;D1
+4;;THT;2.027;-31.754;180;Bottom;Receiver
+5;;;13.7317;-7.87799;-90;Bottom;DHT1
+6;;;14.9881;-32.0898;-90;Bottom;House.io
+7;;THT;28.951;-42.93;0;Bottom;Transmitter
+8;;;14.9692;-1.41905;0;Bottom;IMG1
+9;;;27.7867;-3.17913;0;Bottom;NEOPIXEL
+10;330;THT;27.427;-27.69;-90;Bottom;R1
